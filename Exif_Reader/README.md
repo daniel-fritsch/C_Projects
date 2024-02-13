@@ -4,7 +4,7 @@ This is an Exif reader in C designed to take a JPG image as an input as a termin
 of the photo. This includes camera manufacturer, model, width in pixels, etc.
 
 The command to run the program is of the form:
-./exifreader img1.jpg
+./exifview img1.jpg
 
 Make sure to input an image as a parameter for the program to produce the desired output. 
 
