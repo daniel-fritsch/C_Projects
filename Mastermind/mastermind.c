@@ -128,9 +128,9 @@ int main() {
             } else if(answerKeyCopy[i] == 2){
                 printf("o");
             } else if(answerKeyCopy[i] == 3){
-                printf("o");
-            } else if(answerKeyCopy[i] == 4){
                 printf("y");
+            } else if(answerKeyCopy[i] == 4){
+                printf("g");
             } else if(answerKeyCopy[i] == 5){
                 printf("b");
             } else if(answerKeyCopy[i] == 6){
