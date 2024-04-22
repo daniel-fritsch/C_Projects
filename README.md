@@ -1,4 +1,9 @@
 # C_Projects
-A collection of programs and projects written primarily in C.
+A collection of programs and projects written primarily in C for a variety of purposes and uses. This repository contains all manner of ideas, applications, and experiments from personal study of computer concepts and computer systems. 
 
-Intended as a repo for collecting various research and experimental projects of widespread applications and uses together for safe-keeping. 
+- mastermind game
+- string file reader
+- custom malloc implementation
+- exif tag reader
+- simple shell implementation
+  
